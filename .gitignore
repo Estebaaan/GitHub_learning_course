@@ -7,7 +7,7 @@ datasets/
 *.zip
 *.tar.gz
 *.log
-*.txt
+# *.txt
 *.npz
 
 # Archivos temporales
