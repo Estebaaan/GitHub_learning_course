@@ -1,0 +1,18 @@
+# Archivos/Carpetas grandes
+data/
+datasets/
+*.csv
+*.h5
+*.nc
+*.zip
+*.tar.gz
+*.log
+*.txt
+*.npz
+
+# Archivos temporales
+__pycache__/
+*.pyc
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
